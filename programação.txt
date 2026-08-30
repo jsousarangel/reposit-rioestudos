@@ -1,0 +1,5 @@
+ primeiro prompt :
+nome= 'carlos eduardo da silva de sousa' 
+idade= '16 anos'
+peso='63kg'
+print(nome,idade,'e',peso)
